@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_attr">
+    <sn_cmp_bp_stage_res_op_attr action="INSERT_OR_UPDATE">
+        <default_value>{"WorkloadConfigProviderType":"${parameter.WorkloadConfigProviderType}", "CfgMgmtEndpoint" : "$(ci.cmdb_ci_workload_config_provider[${parameter.WorkloadConfigProvider}].url)"}</default_value>
+        <name>ScriptParameters</name>
+        <rb_operation_attribute display_value="ScriptParameters">5634ce4d0bb01300f845ad4363673a79</rb_operation_attribute>
+        <stage_resource_operation display_value="Virtual Server.Bootstrap Node">92117351dbb25700e516b3d0ef9619da</stage_resource_operation>
+        <sys_class_name>sn_cmp_bp_stage_res_op_attr</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 06:03:27</sys_created_on>
+        <sys_id>66117f51dbb25700e516b3d0ef961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptParameters</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_attr_66117f51dbb25700e516b3d0ef961980</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 06:04:27</sys_updated_on>
+        <type_of_map>1</type_of_map>
+        <use_in_operation>false</use_in_operation>
+    </sn_cmp_bp_stage_res_op_attr>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="Cheftesting Resource Interface">35b3f355dbb25700e516b3d0ef9619ae</interface>
+        <operation display_value="ModifyLease">73b37755dbb25700e516b3d0ef96191f</operation>
+        <operation_output_attributes/>
+        <resource display_value="Cheftesting Blueprint Resource">79b3f355dbb25700e516b3d0ef9619b0</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 06:15:01</sys_created_on>
+        <sys_id>b7b37755dbb25700e516b3d0ef961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>73b37755dbb25700e516b3d0ef96191f</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_b7b37755dbb25700e516b3d0ef961922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 06:15:01</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>

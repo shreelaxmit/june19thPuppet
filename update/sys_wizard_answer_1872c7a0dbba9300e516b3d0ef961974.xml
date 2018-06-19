@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Puppet Enterprise Environment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Puppet Enterprise Environment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">7150f623db661300066ff4eb0c9619c2</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-16 18:44:09</sys_created_on>
+        <sys_id>1872c7a0dbba9300e516b3d0ef961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise Environment</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sys_wizard_answer_1872c7a0dbba9300e516b3d0ef961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-16 18:44:09</sys_updated_on>
+        <table/>
+        <target_url>x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise_environment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

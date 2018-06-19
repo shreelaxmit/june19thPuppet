@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule_info">
+    <sn_cmp_bp_rule_info action="INSERT_OR_UPDATE">
+        <guest display_value="Cheftesting Blueprint Resource">79b3f355dbb25700e516b3d0ef9619b0</guest>
+        <host_resource>Any</host_resource>
+        <operation>Deprovision</operation>
+        <rule_json>{&#13;
+  "FormLoad": {&#13;
+    "Hide": {&#13;
+      "Attributes": [&#13;
+        {&#13;
+          "Name": "StackID",&#13;
+          "ApplicableHost": "Any",&#13;
+          "AdditionalRules": ""&#13;
+        }&#13;
+      ]&#13;
+    }&#13;
+  }&#13;
+}</rule_json>
+        <sys_class_name>sn_cmp_bp_rule_info</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 06:14:53</sys_created_on>
+        <sys_id>4eb3f355dbb25700e516b3d0ef9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_info_4eb3f355dbb25700e516b3d0ef9619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 06:14:53</sys_updated_on>
+        <template_type/>
+    </sn_cmp_bp_rule_info>
+</record_update>

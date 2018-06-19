@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_param">
+    <sn_cmp_rb_op_param action="INSERT_OR_UPDATE">
+        <interface display_value="InstallTomcat Resource Interface">dec03751dbb25700e516b3d0ef9619b8</interface>
+        <name>AdditionalAPIParameters</name>
+        <operation display_value="Provision">22c03751dbb25700e516b3d0ef9619c8</operation>
+        <order>1000</order>
+        <sys_class_name>sn_cmp_rb_op_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 06:02:05</sys_created_on>
+        <sys_id>aac03751dbb25700e516b3d0ef9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AdditionalAPIParameters</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_param_aac03751dbb25700e516b3d0ef9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 06:02:05</sys_updated_on>
+        <type>3</type>
+    </sn_cmp_rb_op_param>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>efecfa6cdb7a9300e516b3d0ef961923</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier_entry">
+    <cmdb_identifier_entry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_fallback>false</allow_fallback>
+        <allow_null_attribute>false</allow_null_attribute>
+        <attributes>object_id</attributes>
+        <condition/>
+        <exact_count_match>false</exact_count_match>
+        <identifier display_value="x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise">b4ccb22cdb7a9300e516b3d0ef96198f</identifier>
+        <order>100</order>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-16 18:20:04</sys_created_on>
+        <sys_id>efecfa6cdb7a9300e516b3d0ef961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-16 18:20:04</sys_updated_on>
+        <table>x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise</table>
+    </cmdb_identifier_entry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 05:52:52</sys_created_on>
+        <sys_id>377b9538db72d300e516b3d0ef961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-06-16 11:20:04</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sys_metadata_link_377b9538db72d300e516b3d0ef961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 05:52:52</sys_updated_on>
+        <tablename>cmdb_identifier_entry</tablename>
+    </sys_metadata_link>
+</record_update>

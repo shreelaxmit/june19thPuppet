@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_catalog_prop">
+    <sn_cmp_bp_catalog_prop action="INSERT_OR_UPDATE">
+        <bp_cat_form_behavior display_value="AppInstaller Stop">c1578b5ddbfe1700e516b3d0ef9619ed</bp_cat_form_behavior>
+        <datasource>2</datasource>
+        <default_value>${Stack.items[Blueprint Container Resource].sys_id}</default_value>
+        <display_name>Stack ID</display_name>
+        <display_order>81</display_order>
+        <error_text/>
+        <form_ui_group display_value="General Info">8877439ddbfe1700e516b3d0ef961973</form_ui_group>
+        <global_prop display_value="StackID">e1760f1ddbfe1700e516b3d0ef9619de</global_prop>
+        <help_text/>
+        <mandatory>false</mandatory>
+        <name>StackID</name>
+        <parameter_type>1</parameter_type>
+        <policy/>
+        <read_only>false</read_only>
+        <regex/>
+        <sys_class_name>sn_cmp_bp_catalog_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 03:01:26</sys_created_on>
+        <sys_id>dc77439ddbfe1700e516b3d0ef961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>StackID</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_catalog_prop_dc77439ddbfe1700e516b3d0ef961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 03:01:26</sys_updated_on>
+        <ui_data_type>9</ui_data_type>
+        <unique_id>3254</unique_id>
+        <visibility>true</visibility>
+    </sn_cmp_bp_catalog_prop>
+</record_update>

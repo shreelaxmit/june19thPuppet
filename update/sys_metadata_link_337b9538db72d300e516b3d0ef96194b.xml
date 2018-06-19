@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>72254364dbba9300e516b3d0ef9619dd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_metadata_hosting">
+    <cmdb_metadata_hosting action="INSERT_OR_UPDATE">
+        <child_type>x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise</child_type>
+        <is_reverse>false</is_reverse>
+        <parent_type>x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise_environment</parent_type>
+        <rel_type display_value="Hosted on::Hosts">5f985e0ec0a8010e00a9714f2a172815</rel_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-16 18:56:04</sys_created_on>
+        <sys_id>72254364dbba9300e516b3d0ef9619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-16 18:56:04</sys_updated_on>
+    </cmdb_metadata_hosting>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-17 05:52:51</sys_created_on>
+        <sys_id>337b9538db72d300e516b3d0ef96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-06-16 11:56:04</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sys_metadata_link_337b9538db72d300e516b3d0ef96194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-17 05:52:51</sys_updated_on>
+        <tablename>cmdb_metadata_hosting</tablename>
+    </sys_metadata_link>
+</record_update>

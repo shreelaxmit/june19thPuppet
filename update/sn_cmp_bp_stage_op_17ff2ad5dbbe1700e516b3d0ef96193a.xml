@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_op">
+    <sn_cmp_bp_stage_op action="INSERT_OR_UPDATE">
+        <blueprint_stage_model display_value="">dfff2ad5dbbe1700e516b3d0ef961920</blueprint_stage_model>
+        <is_plan_synced>false</is_plan_synced>
+        <name>Deprovision</name>
+        <operation_impl display_value="Deprovision">beffe6d5dbbe1700e516b3d0ef9619ca</operation_impl>
+        <parallel_plan_generated>false</parallel_plan_generated>
+        <sys_class_name>sn_cmp_bp_stage_op</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 01:18:58</sys_created_on>
+        <sys_id>17ff2ad5dbbe1700e516b3d0ef96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deprovision</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_op_17ff2ad5dbbe1700e516b3d0ef96193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 01:18:58</sys_updated_on>
+    </sn_cmp_bp_stage_op>
+</record_update>

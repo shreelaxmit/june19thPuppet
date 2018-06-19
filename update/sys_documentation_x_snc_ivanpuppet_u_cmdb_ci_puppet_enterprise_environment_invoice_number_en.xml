@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="invoice_number" label="Invoice number" language="en" table="x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise_environment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>invoice_number</element>
+            <help/>
+            <hint/>
+            <label>Invoice number</label>
+            <language>en</language>
+            <name>x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise_environment</name>
+            <plural>Invoice numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-16 18:44:10</sys_created_on>
+            <sys_id>ec728be0dbba9300e516b3d0ef9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Invoice number</sys_name>
+            <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ivanpuppet_u_cmdb_ci_puppet_enterprise_environment_invoice_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-16 18:44:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

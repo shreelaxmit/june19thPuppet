@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_param">
+    <sn_cmp_rb_op_impl_param action="INSERT_OR_UPDATE">
+        <applicable_to>ddf5cd6bd722220097eb6ccf6e610346</applicable_to>
+        <datasource>1</datasource>
+        <datasourcevalue/>
+        <defaultvalue>${parameter.CreateResourceGroup}</defaultvalue>
+        <error_text/>
+        <help_text/>
+        <host/>
+        <ismandatory>true</ismandatory>
+        <name>CreateResourceGroup</name>
+        <operation display_value="Provision">c2b3f355dbb25700e516b3d0ef9619c1</operation>
+        <order>60</order>
+        <read_only>false</read_only>
+        <regex/>
+        <sys_class_name>sn_cmp_rb_op_impl_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 06:14:55</sys_created_on>
+        <sys_id>22b33755dbb25700e516b3d0ef96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateResourceGroup</sys_name>
+        <sys_package display_value="Ivanpuppet" source="x_snc_ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ivanpuppet">2e253aecdb3a9300e516b3d0ef961949</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_param_22b33755dbb25700e516b3d0ef96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 06:14:55</sys_updated_on>
+        <ui_data_type/>
+        <value>Yes</value>
+        <visibilty>false</visibilty>
+    </sn_cmp_rb_op_impl_param>
+</record_update>
