@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_com_profile_mapping">
     <sn_cmp_com_profile_mapping action="INSERT_OR_UPDATE">
-        <cloud_account display_value="Vsphere CA">0fa44399dbfe1700e516b3d0ef961910</cloud_account>
-        <location display_value="devcloud">31d40799dbfe1700e516b3d0ef9619b5</location>
+        <cloud_account display_value="">0fa44399dbfe1700e516b3d0ef961910</cloud_account>
+        <location display_value="">31d40799dbfe1700e516b3d0ef9619b5</location>
         <price/>
         <profile display_value="t1.micro">8026c71ddbfe1700e516b3d0ef961960</profile>
         <sys_class_name>sn_cmp_com_profile_mapping</sys_class_name>
@@ -16,6 +16,6 @@
         <sys_update_name>sn_cmp_com_profile_mapping_5a360b1ddbfe1700e516b3d0ef9619d5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-06-19 02:56:23</sys_updated_on>
-        <template display_value="t1.micro">ac550bd9dbfe1700e516b3d0ef9619a2</template>
+        <template display_value="">ac550bd9dbfe1700e516b3d0ef9619a2</template>
     </sn_cmp_com_profile_mapping>
 </record_update>

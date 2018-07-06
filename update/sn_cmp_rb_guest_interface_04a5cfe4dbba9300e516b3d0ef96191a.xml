@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_guest_interface">
     <sn_cmp_rb_guest_interface action="INSERT_OR_UPDATE">
         <guestinterface display_value="Puppet Enterprise Interface">40a5cfe4dbba9300e516b3d0ef961915</guestinterface>
-        <resource display_value="Puppet Enterprise">40a5cfe4dbba9300e516b3d0ef961917</resource>
+        <resource display_value="">40a5cfe4dbba9300e516b3d0ef961917</resource>
         <sys_class_name>sn_cmp_rb_guest_interface</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-16 18:58:04</sys_created_on>

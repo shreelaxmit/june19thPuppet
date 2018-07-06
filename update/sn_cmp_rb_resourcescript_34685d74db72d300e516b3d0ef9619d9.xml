@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_resourcescript">
     <sn_cmp_rb_resourcescript action="INSERT_OR_UPDATE">
         <name>Discover_Puppet_Environments </name>
-        <resource display_value="Puppet Enterprise">40a5cfe4dbba9300e516b3d0ef961917</resource>
+        <resource display_value="">40a5cfe4dbba9300e516b3d0ef961917</resource>
         <script>function processResponse(response, cloudServiceAccountId, ldc) { &#13;
 &#13;
     var PuppetModelString = []; &#13;

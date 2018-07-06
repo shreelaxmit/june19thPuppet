@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_os_profile_mapping">
     <sn_cmp_os_profile_mapping action="INSERT_OR_UPDATE">
-        <cloud_account display_value="Vsphere CA">0fa44399dbfe1700e516b3d0ef961910</cloud_account>
-        <location display_value="devcloud">31d40799dbfe1700e516b3d0ef9619b5</location>
+        <cloud_account display_value="">0fa44399dbfe1700e516b3d0ef961910</cloud_account>
+        <location display_value="">31d40799dbfe1700e516b3d0ef9619b5</location>
         <price/>
         <profile display_value="ubuntu">bec5031ddbfe1700e516b3d0ef961965</profile>
         <sys_class_name>sn_cmp_os_profile_mapping</sys_class_name>
@@ -16,6 +16,6 @@
         <sys_update_name>sn_cmp_os_profile_mapping_1ad5431ddbfe1700e516b3d0ef96197d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-06-19 02:54:42</sys_updated_on>
-        <template display_value="ubuntu14">5025cf99dbfe1700e516b3d0ef96195e</template>
+        <template display_value="">5025cf99dbfe1700e516b3d0ef96195e</template>
     </sn_cmp_os_profile_mapping>
 </record_update>

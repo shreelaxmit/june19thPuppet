@@ -3,7 +3,7 @@
         <interface display_value="Puppet Enterprise Interface">40a5cfe4dbba9300e516b3d0ef961915</interface>
         <operation display_value="Discover">65c5cfe4dbba9300e516b3d0ef961923</operation>
         <operation_output_attributes/>
-        <resource display_value="Puppet Enterprise">40a5cfe4dbba9300e516b3d0ef961917</resource>
+        <resource display_value="">40a5cfe4dbba9300e516b3d0ef961917</resource>
         <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-16 18:58:43</sys_created_on>

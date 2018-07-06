@@ -8,7 +8,7 @@
         <sm_checkpoint_id/>
         <source_sm_checkpoint_id/>
         <status>1</status>
-        <svc_layer display_value="Cheftesting">71b3f355dbb25700e516b3d0ef9619a5</svc_layer>
+        <svc_layer display_value="">71b3f355dbb25700e516b3d0ef9619a5</svc_layer>
         <sys_class_name>sn_cmp_bp_blueprint</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-19 06:14:52</sys_created_on>

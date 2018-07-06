@@ -16,10 +16,10 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Config Management Workload Provider" name="sn_cmp_wl_cfg_mgmt_provider">3cf6f4f7db625300066ff4eb0c9619fa</super_class>
-        <sys_class_code>!(</sys_class_code>
+        <super_class display_value="Config Management Workload Provider" name="sn_cmp_wl_cfg_mgmt_provider">8eae3350db4f9300c97a324d7c9619ef</super_class>
+        <sys_class_code>!)</sys_class_code>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path>/!!/$#/!!/!(</sys_class_path>
+        <sys_class_path>/!!/$#/!!/!)</sys_class_path>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-16 18:18:15</sys_created_on>
         <sys_id>388cf26cdb7a9300e516b3d0ef9619d5</sys_id>

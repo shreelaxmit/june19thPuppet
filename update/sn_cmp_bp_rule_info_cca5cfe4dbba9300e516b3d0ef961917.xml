@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule_info">
     <sn_cmp_bp_rule_info action="INSERT_OR_UPDATE">
-        <guest display_value="Puppet Enterprise">40a5cfe4dbba9300e516b3d0ef961917</guest>
+        <guest display_value="">40a5cfe4dbba9300e516b3d0ef961917</guest>
         <host_resource>Any</host_resource>
         <operation>Provision</operation>
         <rule_json/>
